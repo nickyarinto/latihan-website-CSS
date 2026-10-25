@@ -1,0 +1,91 @@
+body {
+    background-color: #E6F0FF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #001433;
+}
+h1 {
+    text-align: center;
+    color: #0D47A1;
+    text-shadow: -.1em .1em #9fb4cc;
+    background-color: #c0d9f6;
+}
+blockquote {
+    background-color: #E3F2FD;
+    border: 1px dashed #0D47A1;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 10px;
+}
+#soekarno {
+    font-weight: bold;
+}
+.menu {
+    text-align: center;
+    background-color: #BBDEFB;
+}
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+.menu li {
+    display: inline;
+    margin: 0 25px;
+}
+a {
+    color: #192f50;
+}
+img {
+    border: 2px solid #1565C0;
+    border-radius: 15px;
+    box-shadow: -.1em .1em #0D47A1;
+}
+.gambar {
+    text-align: center;
+}
+.gambar img {
+    width: 35%;
+}
+.koleksi {
+    background-color: #0D47A1;
+    text-align: center;
+    padding: 10px 0;
+}
+.koleksi img {
+    width: 20%;
+}
+p {
+    text-align: justify;
+}
+.isi p::first-letter {
+    font-size: 50px;
+    color: #0D47A1;
+}
+.jawa {
+    font-weight: bold;
+    color: #1565C0;
+}
+h3 {
+    text-align: center;
+    color: #0D47A1;
+    background-color: #BBDEFB;
+    text-shadow: -.1em .1em #9fb4cc;
+}
+h4 {
+    color: #1565C0;
+}
+.promo {
+    text-align: center;
+    color: #0D47A1;
+}
+.promo ol {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BBDEFB;
+}
+#Wa {
+    font-weight: bold;
+    background-color: #E3F2FD;
+}
